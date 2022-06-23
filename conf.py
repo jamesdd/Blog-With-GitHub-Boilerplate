@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Da_Xian的个人博客"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}翅膀.jpg"
 site_build_date = "2022-06-23T13:51+08:00"
 author = "Da_Xian"
 email = ""
