@@ -2,12 +2,12 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2022/06/23 13:51:00
 status: publish
-author: AlanDecode
+author: Da_Xian
 categories: 
   - Maverick
-  - Dev
+  - Life
 tags: 
   - theme
 ---
@@ -17,6 +17,4 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
