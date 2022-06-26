@@ -15,7 +15,7 @@ excerpt: 404
 
 404: Nothing happened.
 
-![](./images/0535/13-肖君.jpeg)
+![](./images/0535/1-Inge-Morath-Chang-An-Avenue-Beijing-China-1978.jpeg)
 
 ![](./images/0535/70.jpeg)
 
