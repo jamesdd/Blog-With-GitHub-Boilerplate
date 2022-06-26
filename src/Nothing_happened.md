@@ -111,42 +111,118 @@ excerpt: 404
 
 ![](./images/0535/49-朱琳高仓健.jpg)
 
-![](./images/0535/50-1987年-Alain Delon在北京.jpeg)
+![](./images/0535/50-1987年-Alain-Delon在北京.jpeg)
 
 ![](./images/0535/51-NBCs-Today-1987.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/52-Yue-Sai-Kan-was-filmming-One-World-in-Beijing-1988.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/53-BBinChina.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/54-郭建設-1986-米老鼠.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/55-adrian_bradshaw_china_1980s_photography_of_china_-09-09-0137.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/56-1989春-海子骆一禾与西川老木欧阳江河翟永明等.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/57-崔健所在的七合板乐队.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/58-1986.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/59-大地震-包扎长城1988.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/60-郭建设1984.png)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/61-1989.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/62-隆福寺1985.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/63-郭建設1986.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/64-1987.jpeg)
 
-![](./images/0535/70.jpeg)
+![](./images/0535/65-1980年英国摄影师迈克-埃默里（Mike-Emery）和孩子们在天安门广场合影.jpeg)
 
-![](./images/0535/71.jpeg)
+![](./images/0535/66-1981年天安门广场华灯下学习准备高考的中国青年刘香成.jpg)
+
+![](./images/0535/67-1984王文澜.jpeg)
+
+![](./images/0535/68-郭建设1983.png)
+
+![](./images/0535/69-郭建設1987天安门广场上庆六一儿童粉笔画大赛.jpg)
 
 ![](./images/0535/70.jpeg)
 
 ![](./images/0535/71.jpeg)
 
 ![](./images/0535/72-adrian_bradshaw_1980s.jpeg)
+
+![](./images/0535/73-秋山亮二.webp)
+
+![](./images/0535/74-adrian_bradshaw.jpeg)
+
+![](./images/0535/75.jpeg)
+
+![](./images/0535/76.jpeg)
+
+![](./images/0535/77-任曙林.jpeg)
+
+![](./images/0535/78-纪念碑1986年李勇鹏作品.jpeg)
+
+![](./images/0535/79-邓丽君.jpeg)
+
+![](./images/0535/80.jpeg)
+
+![](./images/0535/81.jpeg)
+
+![](./images/0535/82.jpg)
+
+![](./images/0535/83.jpeg)
+
+![](./images/0535/84.jpeg)
+
+![](./images/0535/85-卢冠廷.jpg)
+
+![](./images/0535/86-张雨生.jpg)
+
+![](./images/0535/87-童安格.jpg)
+
+![](./images/0535/88-侯德健.jpeg)
+
+![](./images/0535/89.jpeg)
+
+![](./images/0535/90-JOAN_BAEZ_SA15_CLAUDE_DUSSEZ_5973_BD.jpeg)
+
+![](./images/0535/91.jpeg)
+
+![](./images/0535/92-黄秋生.jpeg)
+
+![](./images/0535/93-P.K.14.jpeg)
+
+![](./images/0535/94-废墟乐队.jpg)
+
+![](./images/0535/95-愚人船乐队.jpeg)
+
+![](./images/0535/96.jpeg)
+
+![](./images/0535/97.jpeg)
+
+![](./images/0535/98.jpeg)
+
+![](./images/0535/99.webp)
+
+![](./images/0535/100-噴嘭樂團.jpg)
+
+![](./images/0535/101-老劉與沙子樂隊.jpg)
+
+![](./images/0535/102.png)
+
+![](./images/0535/103.jpeg)
+
+![](./images/0535/104-吴吞.jpeg)
+
+![](./images/0535/105.jpeg)
+
+![](./images/0535/106.jpeg)
+
+![](./images/0535/107.jpeg)
