@@ -9,7 +9,7 @@ categories:
   - 默认分类
 tags: 
   - 博客
-  - 404
+  - GitHub
 excerpt: 404
 ---
 
