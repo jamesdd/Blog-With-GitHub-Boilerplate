@@ -53,7 +53,7 @@ excerpt: 404
 
 ![](./images/0535/19-Pensioners-in-Beijing’s-Hutong-Districtnear-the-Forbidden-City-Patrick-Dransfield1986.jpeg)
 
-![](./images/0535/20-1980年10月7-21日-新华书店总店和北京市新华书店在北京劳动人民文化宫联合举办1980年首届全国书市.jpeg)
+![](./images/0535/20-1980年10月7-21日首届全国书市.jpeg)
 
 ![](./images/0535/21-任曙林.jpeg)
 
