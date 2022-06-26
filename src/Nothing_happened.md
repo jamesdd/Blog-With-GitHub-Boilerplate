@@ -13,7 +13,7 @@ tags:
 excerpt: 404
 ---
 
-$$C ##404: Nothing happened.$$
+<center> ##404: Nothing happened.</center>
 
 ![](./images/0535/1-Inge-Morath-Chang-An-Avenue-Beijing-China-1978.jpeg)
 
