@@ -17,6 +17,6 @@ excerpt: 404
 
 ![](./images/Mononoke_Hime.jpg)
 
-![](./images/70.jpg)
+![](./images/0535/70.jpeg)
 
-![](./images/71.jpg)
+![](./images/0535/71.jpeg)
