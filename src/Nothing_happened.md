@@ -13,7 +13,9 @@ tags:
 excerpt: 404
 ---
 
-Nothing happened.
+这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+
+![](./images/Mononoke_Hime.jpg)
 
 ![](./images/0535/1-Inge Morath. Chang An Avenue. Beijing. China. 1978.jpg)
 
