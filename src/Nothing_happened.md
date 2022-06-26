@@ -13,6 +13,6 @@ tags:
 excerpt: 404
 ---
 
-这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+![](./images/0535/1-Inge Morath. Chang An Avenue. Beijing. China. 1978.jpg)
 
-![](./images/Mononoke_Hime.jpg)
+![](./images/0535/2-1979年7月14日，无名画会展览就在北海的画舫斋.jpg)
