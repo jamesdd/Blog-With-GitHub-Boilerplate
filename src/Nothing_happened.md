@@ -24,3 +24,5 @@ excerpt: 404
 ![](./images/0535/70.jpeg)
 
 ![](./images/0535/71.jpeg)
+
+![](./images/0535/72-adrian_bradshaw_1980s.jpeg)
