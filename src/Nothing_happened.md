@@ -21,6 +21,8 @@ excerpt: 404
 
 ![](./images/0535/8-《青年圆舞曲》-北京张自忠路1号-1980年张兆增.jpeg)
 
+![](./images/0535/10-Echo+Wall,+Beijing+1980's.jpeg)
+
 ![](./images/0535/70.jpeg)
 
 ![](./images/0535/71.jpeg)
