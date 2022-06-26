@@ -19,7 +19,7 @@ excerpt: 404
 
 ![](./images/0535/2-1979年7月14日无名画会展览就在北海的画舫斋.jpeg)
 
-![](./images/0535/11-in a Wangfujing bookstore Beijing 1984 © Guy Le Querrec-1.jpg)
+![](./images/0535/11-in a Wangfujing bookstore Beijing 1984 Guy Le Querrec-1.jpg)
 
 ![](./images/0535/70.jpeg)
 
