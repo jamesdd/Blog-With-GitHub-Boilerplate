@@ -163,7 +163,7 @@ excerpt: 404
 
 ![](./images/0535/75.jpeg)
 
-![](./images/0535/76.jpeg)
+![](./images/0535/76.jpg)
 
 ![](./images/0535/77-任曙林.jpeg)
 
