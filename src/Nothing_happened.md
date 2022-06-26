@@ -17,6 +17,8 @@ excerpt: 404
 
 ![](./images/0535/1-Inge-Morath-Chang-An-Avenue-Beijing-China-1978.jpeg)
 
+![](./images/0535/2-1979年7月14日无名画会展览就在北海的画舫斋.jpeg)
+
 ![](./images/0535/70.jpeg)
 
 ![](./images/0535/71.jpeg)
