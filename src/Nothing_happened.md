@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 404: Nothing happened.
-slug: my-first-awesome-post
+slug: Nothing happened.
 date: 2022-06-04 00:00
 status: publish
-author: <Da_Xian>
+author: Da_Xian
 categories: 
-  - 默认分类
-tags: 
+  - Maverick
+tags:
   - 博客
   - 404
-excerpt: Nothing happened.
+excerpt: 被404的。
 ---
