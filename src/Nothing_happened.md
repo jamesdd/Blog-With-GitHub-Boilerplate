@@ -51,7 +51,7 @@ excerpt: 404
 
 ![](./images/0535/18-1986.jpeg)
 
-![](./images/0535/19-Pensioners-in-Beijing’s-Hutong-Districtnear-the-Forbidden-City-Patrick-Dransfield1986.jpeg)
+![](./images/0535/19-near-the-Forbidden-City-Patrick-Dransfield1986.jpg)
 
 ![](./images/0535/20-1980年10月7-21日首届全国书市.jpeg)
 
