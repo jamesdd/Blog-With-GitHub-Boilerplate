@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 404: Nothing happened.
+title: Nothing happened.
 slug: Nothing happened.
 date: 2022-06-04 00:00
 status: publish
@@ -10,7 +10,7 @@ categories:
 tags:
   - 博客
   - 404
-excerpt: 被404的。
+excerpt: 404
 ---
 
 ## L2 Heading
