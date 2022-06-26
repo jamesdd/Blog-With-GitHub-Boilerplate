@@ -17,6 +17,6 @@ excerpt: 404
 
 ![](./images/Mononoke_Hime.jpg)
 
-![](./images/0535/1-Inge Morath. Chang An Avenue. Beijing. China. 1978.jpg)
+![](./images/0535/71.jpg)
 
-![](./images/0535/2-1979年7月14日，无名画会展览就在北海的画舫斋.jpg)
+![](./images/0535/72.jpg)
