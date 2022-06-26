@@ -99,7 +99,7 @@ excerpt: 404
 
 ![](./images/0535/43-Laura-Biagiotti-1988.jpeg)
 
-![](./images/0535/44-John-stands-in-Tiananmen-Square-while-touring-Beijing-in-1983-Barry Lewis.jpg)
+![](./images/0535/44-John-stands-in-Tiananmen-Square-while-touring-Beijing-in-1983-Barry-Lewis.jpg)
 
 ![](./images/0535/45-wham-in-china-1985-1.jpeg)
 
