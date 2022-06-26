@@ -13,8 +13,6 @@ tags:
 excerpt: 404
 ---
 
-## 404: Nothing happened.
-
 ![](./images/0535/1-Inge-Morath-Chang-An-Avenue-Beijing-China-1978.jpeg)
 
 ![](./images/0535/2-1979年7月14日无名画会展览就在北海的画舫斋.jpeg)
@@ -83,7 +81,7 @@ excerpt: 404
 
 ![](./images/0535/34-1981.jpeg)
 
-![](./images/0535/35-1985年拳王阿里访问北京-肖君35-1985年拳王阿里访问北京-肖君.jpeg)
+![](./images/0535/35-1985年拳王阿里访问北京-肖君.jpeg)
 
 ![](./images/0535/36-Watford-FC-1983.jpeg)
 
