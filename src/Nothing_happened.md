@@ -6,7 +6,7 @@ date: 2022-06-04 00:00
 status: publish
 author: Da_Xian
 categories: 
-  - Maverick
+  - 默认分类
 tags:
   - 博客
   - 404
