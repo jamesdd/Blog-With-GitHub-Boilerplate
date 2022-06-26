@@ -119,7 +119,7 @@ excerpt: 404
 
 ![](./images/0535/53-BBinChina.jpeg)
 
-![](./images/0535/54-郭建設-1986-米老鼠.jpeg)
+![](./images/0535/54-郭建設-1986-米老鼠.jpg)
 
 ![](./images/0535/55-adrian_bradshaw_china_1980s_photography_of_china_-09-09-0137.jpeg)
 
