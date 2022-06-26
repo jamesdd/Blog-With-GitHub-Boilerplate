@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nothing happened
-slug: my-first-awesome-post
+title: Nothing happened.
+slug: nothing-happened
 date: 2022-06-04 00:00
 status: publish
 author: Da_Xian
@@ -17,6 +17,6 @@ excerpt: 404
 
 ![](./images/Mononoke_Hime.jpg)
 
-![](./images/0535/71.jpg)
+![](./images/70.jpg)
 
-![](./images/0535/72.jpg)
+![](./images/71.jpg)
