@@ -99,17 +99,17 @@ excerpt: 404
 
 ![](./images/0535/43-Laura-Biagiotti-1988.jpeg)
 
-![](./images/0535/44-John-stands-in-Tiananmen-Square-while-touring-Beijing-in-1983-Barry Lewis.jpeg)
+![](./images/0535/44-John-stands-in-Tiananmen-Square-while-touring-Beijing-in-1983-Barry Lewis.jpg)
 
 ![](./images/0535/45-wham-in-china-1985-1.jpeg)
 
-![](./images/0535/46-Pavarotti-Beijing-1986.jpeg)
+![](./images/0535/46-Pavarotti-Beijing-1986.png)
 
 ![](./images/0535/47-le-dernier-empereur-tournage.jpg)
 
-![](./images/0535/48-1979-3.jpeg)
+![](./images/0535/48-1979-3.jpg)
 
-![](./images/0535/49-朱琳高仓健.jpeg)
+![](./images/0535/49-朱琳高仓健.jpg)
 
 ![](./images/0535/50-1987年-Alain Delon在北京.jpeg)
 
