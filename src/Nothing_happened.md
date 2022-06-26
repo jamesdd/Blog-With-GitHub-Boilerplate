@@ -71,11 +71,11 @@ excerpt: 404
 
 ![](./images/0535/28-1984第一家西式快餐厅-义利快餐厅.jpeg)
 
-![](./images/0535/29-肯德基198729-肯德基1987.jpeg)
+![](./images/0535/29-肯德基1987.jpeg)
 
 ![](./images/0535/30-刘香成.jpeg)
 
-![](./images/0535/31-1981王文波.jpeg)
+![](./images/0535/31-1981王文波.jpg)
 
 ![](./images/0535/32-王府井小学-Beijing-1989-David-G.jpeg)
 
@@ -107,7 +107,7 @@ excerpt: 404
 
 ![](./images/0535/46-Pavarotti-Beijing-1986.jpeg)
 
-![](./images/0535/47-le-dernier-empereur-tournage.jpeg)
+![](./images/0535/47-le-dernier-empereur-tournage.jpg)
 
 ![](./images/0535/48-1979-3.jpeg)
 
